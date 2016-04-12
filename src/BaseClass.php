@@ -1,6 +1,6 @@
 <?php
 
-namespace Askedio\Laravel5GoogleCalendar;
+namespace Yuyinitos\Laravel5GoogleCalendar;
 
 use Auth;
 
