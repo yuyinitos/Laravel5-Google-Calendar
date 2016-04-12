@@ -1,5 +1,5 @@
 {
-    "name": "askedio/laravel5-google-calendar",
+    "name": "yuyinitos/laravel5-google-calendar",
     "description": "Google Calendar REST API for Laravel 5",
     "keywords": ["laravel", "google calendar"],
     "license": "MIT",
