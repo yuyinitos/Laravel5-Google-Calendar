@@ -187,7 +187,7 @@ class BaseClass
      */
     public static function get_time($time = 'today')
     {
-        $dt = new \DateTime($time, new \DateTimeZone(config('timezone', 'America/Los_Angeles')));
+        $dt = new \DateTime($time, new \DateTimeZone(config('timezone', 'Europe/Amsterdam')));
 
         return $dt->format('Y-m-d\TH:i:sP');
     }
