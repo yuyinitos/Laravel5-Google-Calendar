@@ -10,7 +10,7 @@
      },
     "autoload": {
         "psr-4": {
-            "Askedio\\Laravel5GoogleCalendar\\": "src/"
+            "Yuyinitos\\Laravel5GoogleCalendar\\": "src/"
         }
     }
 }
